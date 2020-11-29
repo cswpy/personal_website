@@ -1,13 +1,13 @@
 # Site settings
 name: Phillip Wang
-title: Phillip Wang
+title: Phillip Wang | Personal Website
 description: A sophomore pursuing Bachelor's degree in Computer Science @ NYU Abu Dhabi, into data science, machine learning, and entreprenuership
-url: https://cswpy.github.io/
+url: https://phillipw.info/
 baseurl: ''
 email: hncswpy@gmail.com
-cover: https://cswpy.github.io/img/og.png
-logo: https://cswpy.github.io/img/emojis/technologist.png
-resume: https://cswpy.github.io/resume.pdf
+cover: https://phillipw.info/img/og.png
+logo: https://phillipw.info/img/emojis/technologist.png
+resume: https://phillipw.info/resume.pdf
 social:
   - title: email
     url: mailto:hncswpy@gmail.com

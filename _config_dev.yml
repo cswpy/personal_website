@@ -5,9 +5,9 @@ description: A sophomore pursuing Bachelor's degree in Computer Science @ NYU Ab
 url: https://cswpy.github.io/
 baseurl: ''
 email: hncswpy@gmail.com
-cover: https://cswpy.github.io/img/og.png
-logo: https://cswpy.github.io/img/emojis/technologist.png
-resume: https://cswpy.github.io/resume.pdf
+cover: img/og.png
+logo: /img/emojis/technologist.png
+resume: /resume.pdf
 social:
   - title: email
     url: mailto:hncswpy@gmail.com
