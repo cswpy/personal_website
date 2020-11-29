@@ -1,0 +1,19 @@
+<section class="section researches">
+    <div class="section__title">Research</div>
+    <div class="section__content">
+      {% for research in site.data.research %}
+      <div class="research">
+        <div class="research__name">
+          {{research.name}}
+        </div>
+        <p>{{research.description}}</p>
+        <div class="research__used">
+          {% for item in research.used %}
+          <span class="research__used__item">{{item.thing}}</span>
+          {% endfor %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  

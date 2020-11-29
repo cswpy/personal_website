@@ -118,6 +118,17 @@
           height: 25px;
         }
       }
+      &.food {
+        background-image: url('../img/emojis/food.png');
+        width: 30px;
+        height: 30px;
+        margin: 0 5px;
+        vertical-align: text-bottom;
+        @include phablet {
+          width: 25px;
+          height: 25px;
+        }
+      }
     }
     .highlight-link {
       @include transition;
