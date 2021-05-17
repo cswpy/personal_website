@@ -9,6 +9,16 @@
     - thing: HTML
     - thing: CSS
 
+- name: Grocery On Rails
+  url: https://github.com/grocery-on-rails
+  code: https://github.com/grocery-on-rails/grocery-backend
+  description: A complete online grocery platform that integrates a mobile app developed in Flutter, an admin panel website in JS, and a RESTful API service in Flask.
+  used:
+    - thing: Flask
+    - thing: Flutter
+    - thing: Javascript
+    - thing: MongoDB
+
 - name: Project Datum
   url: https://project-datum.github.io/
   code: https://github.com/project-datum/

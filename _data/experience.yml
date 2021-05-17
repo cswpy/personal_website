@@ -1,20 +1,25 @@
-- company: combyne
-  url: https://www.combyne.com/
-  time: June 2020 - Present
-  position: Junior Data Analyst
-
 - company: Artificial Intelligence Clinical Research Lab
   url: http://sites.nyuad.nyu.edu/cities
-  time: Nov 2020 - Present
+  time: Nov. 2020 - Present
   position: Cranmore Research Fellow
 
-- company: AppCircle Education Technology
-  url: https://www.shenqingquan.com/
-  time: July 2017 - Apr 2019
-  position: Co-founder & Head of Data Team
+- company: Nokia
+  url: https://www.nokia.com/
+  time: Jan. 2021 - Mar. 2021
+  position: Software Engineering Intern
+
+- company: combyne
+  url: https://www.combyne.com/
+  time: June 2020 - Dec. 2020
+  position: Junior Data Analyst
 
 - company: Education Without Barriers
   url: http://educationwithoutbarriers.org/
-  time: Sep 2017 - July 2019
+  time: Sep. 2017 - July 2019
   position: Regional Manager
+
+- company: AppCircle Education Technology
+  url: https://www.shenqingquan.com/
+  time: Aug. 2018 - Apr. 2019
+  position: Co-founder & Head of Data Team
 
