@@ -19,14 +19,14 @@
     - thing: Javascript
     - thing: MongoDB
 
-- name: Project Datum
-  url: https://project-datum.github.io/
-  code: https://github.com/project-datum/
-  description: An initiative dedicated to raising people's awareness on data protection and educating on the costs of free services.
+- name: MindDoc
+  url: https://github.com/Deecamp-MindDoc/baseline_model
+  code: https://github.com/Deecamp-MindDoc/baseline_model
+  description: Using machine learning to diagnose MDD (Major Depressive Disorder) and predict anti-depressants' effectiveness using pre-treatment EGG (electroencephalograph).
   used:
-    - thing: HTML
-    - thing: CSS
-    - thing: Bulma
+    - thing: MATLAB
+    - thing: Numpy
+    - thing: <a href="https://mne.tools/stable/index.html" class="underline-link">MNE</a>
 
 - name: Screen Helper
   url: https://github.com/cswpy/screen-helper

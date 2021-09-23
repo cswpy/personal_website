@@ -12,17 +12,16 @@ frameworks:
   - item: Pandas
   - item: Scikit-learn
   - item: Flask
-  - item: Keras
+  - item: PyTorch
   - item: PySpark
   - item: Matplotlib
 
 tools:
-  - item: Bash
+  - item: Linux
+  - item: Hadoop
   - item: Git & Github
-  - item: Google Analytics
-  - item: Firebase
+  - item: Google BigQuery & Google Analytics
+  - item: Firebase & Firestore
   - item: Postman
   - item: MongoDB
-  - item: Data Studio
-  - item: BigQuery
 
