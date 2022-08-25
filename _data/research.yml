@@ -1,12 +1,13 @@
 - name: Artificial intelligence to assist clinical decision-makers in the prescription of antibiotics
-  description: Using artificial intelligence, we aim to leverage large-scale electronic health record data to provide guidance for the prescription of antibiotics to diabetic patients, in collaboration with Cleveland Clinic Abu Dhabi. 
+  description: Using artificial intelligence, we aim to leverage large-scale electronic health record data to provide guidance for the prescription of antibiotics to diabetic patients, in collaboration with <a href="https://www.clevelandclinicabudhabi.ae/en/pages/default.aspx" class="underline-link">Cleveland Clinic Abu Dhabi</a>. Abstract accepted in Faculty of Clinical Information '22.
   used:
     - thing: Python
-    - thing: Pandas
+    - thing: TensorFlow
+    - thing: PyTorch
     - thing: scikit-learn
 
 - name: The Genocide and Conflicts Research on Rwanda
-  description: A data-driven social sciences research, led by <a href="http://michellelobrien.com/index.html" class="underline-link">Dr.Michelle O'Brien</a> aimed to quantify the role of religion in the two Rwandan genodices. Collected & cleaned speech data from relevant figures using web-crawling with Python.
+  description: A data-driven social sciences research, led by Dr.Michelle O'Brien aimed to quantify the role of religion in the two Rwandan genodices. Collected & cleaned speech data from relevant figures using web-crawling with Python.
   used:
     - thing: Python
     - thing: BeautifulSoup
