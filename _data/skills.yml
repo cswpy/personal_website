@@ -19,7 +19,11 @@ frameworks:
 tools:
   - item: Linux
   - item: Hadoop
-  - item: Git & Github
+  - item: Flink
+  - item: Kafka
+  - item: Hive
+  - item: Git/Github/GitLab
+  - item: Postgres/MySQL
   - item: Google BigQuery & Google Analytics
   - item: Firebase & Firestore
   - item: Postman
