@@ -1,7 +1,7 @@
 # Site settings
-name: Phillip Wang
-title: Phillip Wang | Personal Website
-description: A senior pursuing Bachelor's degree in Computer Science @ NYU Abu Dhabi, into distributed systems, machine learning & MLOps.
+name: Pengyu (Phillip) Wang
+title: Pengyu (Phillip) Wang
+description: A computer scientist passionate about distributed systems and MLOps.
 url: https://phillipw.info/
 baseurl: ''
 email: hncswpy@gmail.com
@@ -9,12 +9,8 @@ cover: https://phillipw.info/img/og.png
 logo: https://phillipw.info/img/emojis/technologist.png
 resume: https://phillipw.info/resume.pdf
 social:
-  - title: email
-    url: mailto:hncswpy@gmail.com
   - title: blog
     url: https://blog.phillipw.info/
-  - title: twitter
-    url: https://twitter.com/hncswpy
   - title: github
     url: https://github.com/cswpy
   - title: linkedin
