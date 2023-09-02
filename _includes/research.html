@@ -4,7 +4,7 @@
       {% for research in site.data.research %}
       <div class="research">
         <div class="research__name">
-          {{research.name}}
+          <a href="{{research.url}}" target="_blank" class="arrow-link">{{research.name}}</a>
         </div>
         <p>{{research.description}}</p>
         <div class="research__used">
