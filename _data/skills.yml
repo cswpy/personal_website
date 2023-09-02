@@ -5,7 +5,6 @@ languages:
   - item: CSS
   - item: SQL
   - item: GoLang
-  - item: Matlab
 
 frameworks:
   - item: Numpy

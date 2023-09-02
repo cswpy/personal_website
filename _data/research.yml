@@ -1,4 +1,5 @@
 - name: Artificial intelligence to assist clinical decision-makers in the prescription of antibiotics
+  code: https://github.com/nyuad-cai/Parsimonious-Model-PUC
   description: Using artificial intelligence, we aim to leverage large-scale electronic health record data to provide guidance for the prescription of antibiotics to diabetic patients, in collaboration with <a href="https://www.clevelandclinicabudhabi.ae/en/pages/default.aspx" class="underline-link">Cleveland Clinic Abu Dhabi</a>. Abstract accepted in Faculty of Clinical Information '22.
   used:
     - thing: Python
@@ -6,9 +7,12 @@
     - thing: PyTorch
     - thing: scikit-learn
 
-- name: The Genocide and Conflicts Research on Rwanda
-  description: A data-driven social sciences research, led by Dr.Michelle O'Brien aimed to quantify the role of religion in the two Rwandan genodices. Collected & cleaned speech data from relevant figures using web-crawling with Python.
+- name: Scaling Package Queries to Millions of Tuples
+  url: https://drive.google.com/file/d/1hGc--hqPu3tnjxV21Dlcf0YKTkS7vDFk/view?usp=sharing
+  code: https://github.com/alm818/PackageQuery
+  description: The project focuses on package queries, a type of high-order query that looks for an answer set that collectively satisfies a global predicate while optimizing for an objective function. We perform a offline partitioning on the relation using K-D Tree and a heuristic called SketchRefine that constructs a package using Integer Linear Programming (ILP) formulation. We are able to answer package queries on the relation with 10-100 million tuples.
   used:
+    - thing: C++
+    - thing: PostGreSQL
+    - thing: libpq
     - thing: Python
-    - thing: BeautifulSoup
-    - thing: requests

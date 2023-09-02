@@ -1,14 +1,3 @@
-- name: Meet Up
-  url: https://github.com/cswpy/meetup
-  code: https://github.com/cswpy/meetup
-  description: A web-based app that utilizes voting algorithms and geographical data to determine a meetup location for a group of people
-  used:
-    - thing: Python
-    - thing: Flask
-    - thing: Redis
-    - thing: HTML
-    - thing: CSS
-
 - name: Grocery On Rails
   url: https://github.com/grocery-on-rails
   code: https://github.com/grocery-on-rails/grocery-backend
@@ -19,14 +8,13 @@
     - thing: Javascript
     - thing: MongoDB
 
-- name: MindDoc
-  url: https://github.com/Deecamp-MindDoc/baseline_model
-  code: https://github.com/Deecamp-MindDoc/baseline_model
-  description: Using machine learning to diagnose MDD (Major Depressive Disorder) and predict anti-depressants' effectiveness using pre-treatment EGG (electroencephalograph).
+- name: Breast Cancer Stage Classification
+  url: https://github.com/cswpy/ML4Healthcare
+  code: https://github.com/cswpy/ML4Healthcare
+  description: Using ResNet and Multiple-Instance Learning to classify breast cancer stages from gigapixel Whole-Slide Images.
   used:
-    - thing: MATLAB
-    - thing: Numpy
-    - thing: <a href="https://mne.tools/stable/index.html" class="underline-link">MNE</a>
+    - thing: Python
+    - thing: PyTorch
 
 - name: Screen Helper
   url: https://github.com/cswpy/screen-helper
